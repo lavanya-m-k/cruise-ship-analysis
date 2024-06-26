@@ -1,7 +1,5 @@
 # Cruise Ship Analysis
 
-![Cruise Ship](https://example.com/cruise-ship-image.jpg)
-
 ## Overview
 
 This project analyzes performance data from cruise ships to understand trends, efficiency, and power consumption. By examining various metrics, we aim to provide insights into the operation and optimization of cruise vessels.
